@@ -1,0 +1,13 @@
+Aşağıdaki bilgilerden yararlanarak bir hibernate projesi yapınız.
+
+Bir müze de bir sergi bulunmaktadır. Ve bu sergideki eserler, sanatçılar ve sergiyi ziyaret edenleri kayıtları tutulacaktır.
+Müzenin bir ismi, bulunduğu şehir, açılış saati ve içerisindeki sergiler tanımlanmalıdır.
+Serginin bir adı, başlangıç ve bitiş tarihi, konusu, sergilendiği müze ve sergideki eserler tanımlanmalıdır.
+Eserin bir adı, yapım yılı, sanatçısı ve hangi sergide sergilendiği tanımlanmalıdır.
+Sanatçının adı, doğum yılı, ölüm yılı ve eserleri tanımlanmalıdır.(ölmediyse boş kalabilir)
+Ziyaretçinin adı, yaşı ,telefon numarası ve ziyaret ettiği sergiler tanımlanmalıdır.
+
+Belirli bir çıktı veya ilişki yoktur. Herkesin bu ilişkileri en mantıklı şekilde kurmasını bekliyorum. Veritabanı tablolarından kontrol ederek
+bu ilişkilerin doğruluğunu test etmelisiniz. Yönetim biçiminize siz karar verebilirsiniz.
+
+Önemli: İlişkilerin hepsi çift taraflı kurulacaktır. Bu ilişkilerin kullanılmayan taraflarında herhangi bir işlem yapılmasına gerek yoktur.
